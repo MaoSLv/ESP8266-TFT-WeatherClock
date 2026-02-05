@@ -34,7 +34,7 @@ int server_code = 0;
 int server_temp = 0;
 // 每5分钟更新一次
 unsigned long lastWeatherUpdate = 0;
-const unsigned long weatherInterval = 5000;
+const unsigned long weatherInterval = 300000;
 // 天气绘画标记
 bool weatherNeedsRedraw = false;
 
