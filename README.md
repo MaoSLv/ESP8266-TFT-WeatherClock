@@ -1,6 +1,6 @@
 # ESP8266-TFT-WeatherClock
 
-基于 ESP8266 和 ST7789 TFT 屏幕的智能天气时钟。这是一个不仅能显示时间，还能实时感知天气的桌面小摆件。
+基于 ESP8266 和 ST7789 TFT 240*320 屏幕的智能天气时钟。这是一个不仅能显示时间，还能实时感知天气的桌面小摆件。
 
 ![项目图](https://github.com/user-attachments/assets/933ccffb-d911-444a-a782-ed16df6979d9)
 
